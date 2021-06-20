@@ -1,0 +1,1 @@
+added a physics body synched to player, added basic movements with collidable map assets
